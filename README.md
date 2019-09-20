@@ -21,4 +21,4 @@ Please fork this reqpository and issue pull request to review.
 
 ### Copyright
 
-2019, Copyright Joyab Bhabharawala
+2019, Copyright Joyab Bhabharawala. All rights reserved.
