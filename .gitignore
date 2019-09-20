@@ -1,3 +1,4 @@
 .temporary_file
 *.log
+*.orig
 logs/
