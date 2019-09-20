@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Purpose
+## Another Purpose
 
 As stated above, the main purpose is to provide simple examples for Git Traning demo.
 
@@ -15,3 +15,5 @@ As stated above, the main purpose is to provide simple examples for Git Traning 
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+You can contribute by forking this repository.
