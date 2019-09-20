@@ -17,6 +17,7 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How To Contribute
 
 You can contribute by forking this repository.
+Please fork this reqpository and issue pull request to review.
 
 ### Copyright
 
