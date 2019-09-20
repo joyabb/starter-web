@@ -17,3 +17,7 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How To Contribute
 
 You can contribute by forking this repository.
+
+### Copyright
+
+2019, Copyright Joyab Bhabharawala
